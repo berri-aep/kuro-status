@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["♡ .gg/kurocafe ♡"];
+const statusMessages = ["use /vouch","shop now !"];
 
 
 let currentIndex = 0;
