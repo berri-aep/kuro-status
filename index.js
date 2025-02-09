@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["busy hunting Aina","Pabuhat","...","Tite","Pakyu"];
+const statusMessages = ["♡ .gg/kurocafe ♡"];
 
 
 let currentIndex = 0;
